@@ -48,6 +48,6 @@ Tecnologias:
 <br>
 <br>
 
-Statisticas:
+Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=candidohenrique&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
